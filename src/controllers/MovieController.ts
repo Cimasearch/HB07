@@ -6,7 +6,7 @@ import {
   IMovieFilter,
   MovieType,
   StreamingServers,
-} from "flixhq-core/dist/types/types";
+} from "HB07API/dist/types/types";
 
 class MovieController {
   protected flixhq;
